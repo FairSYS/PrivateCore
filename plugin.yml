@@ -1,0 +1,5 @@
+name: PrivateCore 
+main: PC\PC
+version: "1.0"
+api: 2.0.0
+author: FairSYS
